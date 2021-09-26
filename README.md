@@ -5,5 +5,24 @@ Anggota   : <p>Bungaran Martua Pakpahan (11S19001)</p>
            <p>Handy Sonflow Sitepu (11S19051)</p>
 
 
-A. Link Repository : https://github.com/gabryella-apriani-sinaga/Kelompok-7-proyek-pabwe
+1. Link Repository : https://github.com/gabryella-apriani-sinaga/Kelompok-7-proyek-pabwe
+2. Spesifikasi HardWare Laptop
 
+* 8 GB RAM
+* Intel i5 3.4 GHz
+* 1000 GB HDD storage
+* Intel HD Graphics 2GB
+
+3. Spesifikasi Software
+
+* Visual Studio Code 2019
+* Boostrap 5
+
+4. Fitur-fitur Website
+
+* Search
+* Anggota
+* Kompetisi
+* Home
+* Profil
+* Struktur HIMASTI
